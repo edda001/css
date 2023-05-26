@@ -1,0 +1,20 @@
+body {
+    font-size: 22PX;
+}
+
+h1, h2 {
+    color: brown;
+}
+
+P {
+    color: chartreuse;
+}
+
+
+.edda {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}

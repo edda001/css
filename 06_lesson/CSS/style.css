@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/*
+
+Typography is the way that text
+is arranged and presented.
+
+*/
+
+body {
+    padding: 10%;
+    font-size: 2rem;
+    font-family: font-family: 'Roboto', sans-serif;
+}
+
+ /*
+ input, button {
+    font: inherit;
+} */
+
+P {
+    text-transform: capitalize;
+    word-spacing: 1.vmax;
+}
